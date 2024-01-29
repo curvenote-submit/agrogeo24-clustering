@@ -1,6 +1,6 @@
 ---
 title: Exploiting clustering algorithms for spatial analysis of geophysical data
-description: ''
+description: In this workshop, you will learn the tips and tricks on how to use centroid based clustering algorithms to analyse your spatial data. Using examples you will see how clustering can help to understand spatial patterns in several example datasets, including synthetic and real geophysical data.
 ---
 
 +++ {"part": "abstract"}
