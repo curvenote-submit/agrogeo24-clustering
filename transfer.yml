@@ -1,0 +1,14 @@
+version: 1
+agrogeo:
+  work:
+    id: 018d5694-9b6c-7668-9ff6-1aa745b0802e
+    date_created: '2024-01-29T18:56:36.203Z'
+  workVersion:
+    id: 018d572e-2a3d-75b2-a1d3-de90752a227c
+    date_created: '2024-01-29T21:44:19.772Z'
+  submission:
+    id: 018d5694-9cbd-7823-a540-f01e4ca6f776
+    date_created: '2024-01-29T18:56:36.538Z'
+  submissionVersion:
+    id: 018d572e-2c0c-7647-bbca-de80378434b9
+    date_created: '2024-01-29T21:44:20.230Z'

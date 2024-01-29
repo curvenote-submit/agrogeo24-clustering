@@ -1,0 +1,57 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  venue: Agrogeo24
+  title: Exploiting clustering algorithms for spatial analysis of geophysical data
+  open_access: true
+  license: CC-BY-NC-4.0
+  banner: banner.png
+  thumbnail: thumbnail.png
+  keywords:
+    - K-Means
+    - Unsupervised Machine Learning
+    - Spatial Analysis
+    - MCASD
+  authors:
+    - name: Dave O'Leary
+      orcid: 0000-0002-4382-6115
+      email: Daveolearyphd@gmail.com
+      affiliations:
+        - Teagasc
+  date: '2024-02-02'
+  name: clustering
+  subject: workshop
+  options:
+    kind: Workshop
+    # page-start: 14
+    # max-page: 31
+  exports:
+    - format: typst
+      output: article.pdf
+      articles:
+        - index.md
+        - Part_1.ipynb
+        - Part_2.ipynb
+        - Part_3.ipynb
+        - Part_4.ipynb
+        - Part_5.ipynb
+        - Part_6.ipynb
+      template: /Users/rowan/git/examples/agrogeo24/abstract-template
+  # github:
+  # bibliography: []
+  abbreviations:
+    WCSS: Within-Cluster Sum of Squares
+    MCASD: Multiple Cluster Average Standard Deviation
+  tags:
+    - workshop
+    - day-1
+site:
+  template: book-theme
+  title: Clustering Workshop
+  options:
+    logo: logo.png
+    logo_text: Clustering Workshop
+  actions:
+    - title: pdf
+      url: article.pdf
+      static: true
