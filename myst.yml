@@ -19,7 +19,6 @@ project:
       affiliations:
         - Teagasc
   date: '2024-02-02'
-  name: clustering
   subject: workshop
   options:
     kind: Workshop

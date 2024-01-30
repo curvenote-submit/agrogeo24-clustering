@@ -43,6 +43,8 @@ On Thursday 1st Feb, we have 4h in the afternoon and 2h in the morning on Friday
 
 Thursday 1st Feb: 14:00 – 14:30
 
+![](#part1-links)
+
 - Making sure everyone has Google Account and access to Google Colab notebook.
 - Introduction presentation:
   - Overview of the Workshop and workshop leader
@@ -54,6 +56,8 @@ Thursday 1st Feb: 14:00 – 14:30
 
 Thursday 1st Feb: 14:30 – 15:15
 
+![](#part2-links)
+
 - Making sure everyone has Google Account and access to Google Colab notebook.
 - Introduction presentation:
   - Introduction to Rice Grain Model
@@ -64,6 +68,8 @@ Thursday 1st Feb: 14:30 – 15:15
 
 Thursday 1st Feb: 15:15 – 16:15
 
+![](#part3-links)
+
 - Presentation
   - Giving background on the dataset presented (EMI data from Ireland)
   - Showing results from this real-world example and how clustering aided analysis (Paper reference)
@@ -72,6 +78,8 @@ Thursday 1st Feb: 15:15 – 16:15
 ### Part 4: Using Centroid Clustering to compare data from two surveys (Satellite S2 data).
 
 Thursday 1st Feb: 16:15 – 17:15 (Possibility to overlap with next session)
+
+![](#part4-links)
 
 - Presentation
   - Giving background on the dataset presented (Optical Satellite data from Irish Peatland site over two consecutive years)
@@ -82,6 +90,8 @@ Thursday 1st Feb: 16:15 – 17:15 (Possibility to overlap with next session)
 
 Thursday 2nd Feb: 11:00 – 12:45
 
+![](#part5-links)
+
 - Presentation
   - Giving background on the dataset presented (Optical Satellite data from Part 3 and Airborne Radiometric data)
   - Showing results from this real-world example and how clustering aided analysis (Paper reference)
@@ -90,5 +100,7 @@ Thursday 2nd Feb: 11:00 – 12:45
 ### Part 6 (Optional): Try Clustering your own data.
 
 Thursday 2nd Feb: 11:00 – 12:45
+
+![](#part6-links)
 
 If anyone gets through the material and wants to try clustering their own data (if they have any to try it on) this can be done in this time slot also.
