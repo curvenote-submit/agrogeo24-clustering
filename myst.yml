@@ -26,7 +26,6 @@ project:
     # max-page: 31
   exports:
     - format: typst
-      output: article.pdf
       articles:
         - index.md
         - Part_1.ipynb
@@ -35,9 +34,8 @@ project:
         - Part_4.ipynb
         - Part_5.ipynb
         - Part_6.ipynb
-      template: /Users/rowan/git/examples/agrogeo24/abstract-template
-  # github:
-  # bibliography: []
+      template: /Users/rowan/git/journals/agrogeo24/agrogeo24/abstract-template
+  doi: 10.62329/CXYM4148
   abbreviations:
     WCSS: Within-Cluster Sum of Squares
     MCASD: Multiple Cluster Average Standard Deviation
